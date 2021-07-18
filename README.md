@@ -9,3 +9,4 @@
 - Quiche
 - Brigadeiro
 - Lasanha
+- Pavê
