@@ -1,3 +1,4 @@
+Bem vindos a livro-de-receitas :tada:
 # Livro de Receitas
 
 #### Olá, aproveite nossas receitas!
